@@ -1,5 +1,5 @@
 # SCANet
-# [Spatiotemporal Context-aware Network for Video Salient Object Detection](https://link.springer.com/article/10.1007%2Fs00521-021-06845-3)
+# [Spatiotemporal Context-aware Network for Video Salient Object Detection](https://doi.org/10.1007/s00521-022-07330-1)
 
 This repo. is an official implementation of the *SCANet* , which has been accepted in the journal *Neural computing and applications, 2022*. 
 
